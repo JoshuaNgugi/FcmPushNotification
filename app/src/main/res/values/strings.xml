@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FcmPushNotification</string>
+    <string name="channel_name">Firebase push notification</string>
+    <string name="channel_description">this channel contains all firebase push notifications</string>
+</resources>
